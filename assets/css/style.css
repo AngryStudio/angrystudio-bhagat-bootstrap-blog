@@ -565,7 +565,7 @@ blockquote p {
 
 /*-- Footer --*/
 
-@media (min-width: 991px) {
+@media (min-width: 992px) {
 	.header-search {
 		height: 100%;
 		width: 40px;
@@ -584,7 +584,7 @@ blockquote p {
 	}
 }
 
-@media (min-width: 1199px) {
+@media (min-width: 1200px) {
 	.mt-30 {
 		margin-top: 30px !important;
 	}
